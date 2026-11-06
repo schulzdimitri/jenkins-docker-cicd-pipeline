@@ -223,4 +223,5 @@ Este projeto foi desenvolvido em equipe e é um fork do repositório original: [
 - [Kaik Freitas](https://github.com/kafreitas07)
 - [Dimitri Schulz](https://github.com/schulzdimitri)
 - [Anna Rennó](https://github.com/acrenno)
+
 **Uso de IA:** modelos de linguagem (como o Google Gemini) apoiaram a geração de scripts, a documentação, o planejamento de testes, a containerização e o pipeline CI/CD. Todos os artefatos gerados por IA foram revisados, testados e validados pela equipe.
